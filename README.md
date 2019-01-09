@@ -5,9 +5,7 @@ Zbiorek implementacji zadań ze spotkań.
 1. Dany jest graf G=(V,E) nieskierowany, ważony (wagi nieujemne) i wyróżniony wierzchołek 
 źródłowy s. Dla każdego wierzchołka obliczyć najkrótszą ścieżkę do niego ze źródła, przy czym liczymy tylko ścieżki o parzystej liczbie krawędzi. 
 2. Dany jest układ nierówności mający n niewiadomych x1,x2,...,xn i m nierówności postaci: 
-xi−xj ≤ wij 
-
-dla pewnych liczb rzeczywistych wij. Rozstrzygnąć, czy układ ten ma jakieś rozwiązanie i wypisać jedno, jeśli istnieje. 
+xi−xj ≤ wij dla pewnych liczb rzeczywistych wij. Rozstrzygnąć, czy układ ten ma jakieś rozwiązanie i wypisać jedno, jeśli istnieje. 
 --
 3. Dany jest nieskierowany graf z wagami na krawędziach. Znajdź minimalną średnią wartość na 
 cyklu. 
