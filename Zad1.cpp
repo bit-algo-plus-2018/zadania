@@ -16,10 +16,6 @@ struct vertex{
     vertex(int i,int d,bool p)
         :id(i),distance(d),parity(p)
         {}
-
-    bool operator()(vertex left, vertex right){
-        return left.distance<right.distance;
-    }
 };
 struct vertexCmp{
     bool operator()(vertex left, vertex right){
